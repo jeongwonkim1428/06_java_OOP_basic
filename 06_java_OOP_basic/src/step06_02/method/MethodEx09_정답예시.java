@@ -141,7 +141,7 @@ public class MethodEx09_정답예시 {
 		int[] hakbuns = { 1001, 1002, 1003, 1004, 1005 };
 		int[] scores  = new int[5];
 		
-		Ex09 e = new Ex09();
+		Ex09 object = new Ex09();
 		// 문제1) scores배열에 1~100점 사이의 랜덤 정수를 5개 저장
 		// 예 1) 87, 11, 92, 14, 47
 		object.setRandomValuesinArray(scores);

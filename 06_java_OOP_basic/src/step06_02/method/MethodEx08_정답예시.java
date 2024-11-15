@@ -53,7 +53,7 @@ public class MethodEx08_정답예시 {
 		// 문제 1) arr요소의 전체 합을 출력하는 메서드
 		// 정답 1) 362
 		
-		Ex08 e = new Ex08();
+		Ex08 object = new Ex08();
 		object.printSum(arr);
 
 		
